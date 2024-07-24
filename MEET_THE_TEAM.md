@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meet The Team
+title: Meet The Team - Xvelope
 permalink: /MEET_THE_TEAM
 ---
 # MEET THE TEAM
